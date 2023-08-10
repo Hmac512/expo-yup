@@ -1,0 +1,1538 @@
+[
+  {
+    "_id": { "postid": "72dc5022-4810-46cc-a172-94203326811a" },
+    "author": "yupcreators1",
+    "catVotes": { "overall": { "up": 1, "down": 0 } },
+    "claimedCreatorRewards": 0,
+    "createdAt": "2023-08-08T21:38:52.149Z",
+    "creatorInfluence": 0,
+    "creatorPoolRedeemed": 0,
+    "influence": { "false": 0, "true": 0 },
+    "isCrossPost": false,
+    "isFlagged": false,
+    "isModeratorFlagged": false,
+    "lang": "en",
+    "negativeWeight": 0,
+    "positiveWeight": 0.25,
+    "previewData": {
+      "creator": "",
+      "img": "",
+      "title": "It's the goddess of beauty for a reason",
+      "description": "It's the goddess of beauty for a reason"
+    },
+    "rating": { "overall": { "ratingCount": 1, "ratingWeight": 0 } },
+    "secondaryTags": [],
+    "tag": "bsky",
+    "totalCreatorRewards": 0,
+    "updatedAt": "2023-08-08T21:38:52.149Z",
+    "url": "at://did:plc:6zp4cfbvk6cqi7vf6gzb7ayy/app.bsky.feed.post/3k4i2sam6q62v",
+    "web3Preview": {
+      "id": "at://did:plc:6zp4cfbvk6cqi7vf6gzb7ayy/app.bsky.feed.post/3k4i2sam6q62v",
+      "contentType": "Post",
+      "protocol": "bsky",
+      "creator": {
+        "address": "",
+        "did": "did:plc:6zp4cfbvk6cqi7vf6gzb7ayy",
+        "avatarUrl": "https://cdn.bsky.social/imgproxy/jZ6U4n73rgORreBFgG7LB1T0Hx4OaWWSbF5jHpQihnQ/rs:fill:1000:1000:1:0/plain/bafkreieimb23eanwkfjt5yisdvaoqdoqp2xlbebj3ndo4wmw6d5vadrynu@jpeg",
+        "handle": "philplait.bsky.social",
+        "fullname": "Phil Plait",
+        "yupScore": 0
+      },
+      "attachments": [],
+      "content": "It's the goddess of beauty for a reason",
+      "urls": [],
+      "linkPreview": [],
+      "mentions": {},
+      "meta": {
+        "uri": "at://did:plc:6zp4cfbvk6cqi7vf6gzb7ayy/app.bsky.feed.post/3k4i2sam6q62v",
+        "cid": "bafyreicw6uoyquj7ecgtqjkugujkihydlr35cut63675dkuofceogmmjfe",
+        "author": {
+          "did": "did:plc:6zp4cfbvk6cqi7vf6gzb7ayy",
+          "handle": "philplait.bsky.social",
+          "displayName": "Phil Plait",
+          "avatar": "https://cdn.bsky.social/imgproxy/jZ6U4n73rgORreBFgG7LB1T0Hx4OaWWSbF5jHpQihnQ/rs:fill:1000:1000:1:0/plain/bafkreieimb23eanwkfjt5yisdvaoqdoqp2xlbebj3ndo4wmw6d5vadrynu@jpeg",
+          "viewer": { "muted": false, "blockedBy": false },
+          "labels": []
+        },
+        "record": {
+          "text": "It's the goddess of beauty for a reason",
+          "type": "app.bsky.feed.post",
+          "langs": ["en"],
+          "createdAt": "2023-08-08T21:38:52.299Z"
+        },
+        "embed": {
+          "type": "app.bsky.embed.record#view",
+          "record": {
+            "type": "app.bsky.embed.record#viewRecord",
+            "uri": "at://did:plc:we2butxgfrqjxqxztwznhrrv/app.bsky.feed.post/3k4hygvx2522q",
+            "cid": "bafyreibqyh23hxfhyypcdz4fhberih7d3ldljwrjmtj52uaivkpkvue53u",
+            "author": {
+              "did": "did:plc:we2butxgfrqjxqxztwznhrrv",
+              "handle": "kevinmgill.bsky.social",
+              "displayName": "Kevin M. Gill",
+              "avatar": "https://cdn.bsky.social/imgproxy/C-9cJJAHLOO50f_dPHQE2cJz-6a3s4RGI3vf9rIrr3w/rs:fill:1000:1000:1:0/plain/bafkreihsp22nmdugvhgbkp7bmdxybg3sfyeioa3wxwdb6ir5q2wfi6qnue@jpeg",
+              "viewer": { "muted": false, "blockedBy": false },
+              "labels": []
+            },
+            "value": {
+              "text": "Venus in May and June 2022. Imaged in ultraviolet by Japan's Akatsuki orbiter.\n\nJAXA/ISAS/DARTS/Kevin M. Gill",
+              "type": "app.bsky.feed.post",
+              "embed": {
+                "type": "app.bsky.embed.images",
+                "images": [
+                  {
+                    "alt": "",
+                    "image": {
+                      "ref": {
+                        "code": 85,
+                        "version": 1,
+                        "multihash": {
+                          "code": 18,
+                          "size": 32,
+                          "digest": [
+                            36, 35, 124, 89, 225, 176, 75, 14, 53, 108, 13, 44,
+                            190, 219, 68, 120, 204, 182, 136, 132, 137, 153, 96,
+                            229, 104, 4, 249, 253, 21, 118, 59, 54
+                          ],
+                          "bytes": [
+                            18, 32, 36, 35, 124, 89, 225, 176, 75, 14, 53, 108,
+                            13, 44, 190, 219, 68, 120, 204, 182, 136, 132, 137,
+                            153, 96, 229, 104, 4, 249, 253, 21, 118, 59, 54
+                          ]
+                        },
+                        "bytes": [
+                          1, 85, 18, 32, 36, 35, 124, 89, 225, 176, 75, 14, 53,
+                          108, 13, 44, 190, 219, 68, 120, 204, 182, 136, 132,
+                          137, 153, 96, 229, 104, 4, 249, 253, 21, 118, 59, 54
+                        ]
+                      },
+                      "mimeType": "image/jpeg",
+                      "size": 402742,
+                      "original": {
+                        "type": "blob",
+                        "ref": {
+                          "code": 85,
+                          "version": 1,
+                          "multihash": {
+                            "code": 18,
+                            "size": 32,
+                            "digest": [
+                              36, 35, 124, 89, 225, 176, 75, 14, 53, 108, 13,
+                              44, 190, 219, 68, 120, 204, 182, 136, 132, 137,
+                              153, 96, 229, 104, 4, 249, 253, 21, 118, 59, 54
+                            ],
+                            "bytes": [
+                              18, 32, 36, 35, 124, 89, 225, 176, 75, 14, 53,
+                              108, 13, 44, 190, 219, 68, 120, 204, 182, 136,
+                              132, 137, 153, 96, 229, 104, 4, 249, 253, 21, 118,
+                              59, 54
+                            ]
+                          },
+                          "bytes": [
+                            1, 85, 18, 32, 36, 35, 124, 89, 225, 176, 75, 14,
+                            53, 108, 13, 44, 190, 219, 68, 120, 204, 182, 136,
+                            132, 137, 153, 96, 229, 104, 4, 249, 253, 21, 118,
+                            59, 54
+                          ]
+                        },
+                        "mimeType": "image/jpeg",
+                        "size": 402742
+                      }
+                    }
+                  },
+                  {
+                    "alt": "",
+                    "image": {
+                      "ref": {
+                        "code": 85,
+                        "version": 1,
+                        "multihash": {
+                          "code": 18,
+                          "size": 32,
+                          "digest": [
+                            56, 36, 136, 181, 53, 10, 181, 130, 226, 36, 85,
+                            178, 84, 7, 241, 182, 40, 25, 58, 213, 251, 118, 70,
+                            192, 124, 17, 235, 24, 97, 255, 197, 193
+                          ],
+                          "bytes": [
+                            18, 32, 56, 36, 136, 181, 53, 10, 181, 130, 226, 36,
+                            85, 178, 84, 7, 241, 182, 40, 25, 58, 213, 251, 118,
+                            70, 192, 124, 17, 235, 24, 97, 255, 197, 193
+                          ]
+                        },
+                        "bytes": [
+                          1, 85, 18, 32, 56, 36, 136, 181, 53, 10, 181, 130,
+                          226, 36, 85, 178, 84, 7, 241, 182, 40, 25, 58, 213,
+                          251, 118, 70, 192, 124, 17, 235, 24, 97, 255, 197, 193
+                        ]
+                      },
+                      "mimeType": "image/jpeg",
+                      "size": 649295,
+                      "original": {
+                        "type": "blob",
+                        "ref": {
+                          "code": 85,
+                          "version": 1,
+                          "multihash": {
+                            "code": 18,
+                            "size": 32,
+                            "digest": [
+                              56, 36, 136, 181, 53, 10, 181, 130, 226, 36, 85,
+                              178, 84, 7, 241, 182, 40, 25, 58, 213, 251, 118,
+                              70, 192, 124, 17, 235, 24, 97, 255, 197, 193
+                            ],
+                            "bytes": [
+                              18, 32, 56, 36, 136, 181, 53, 10, 181, 130, 226,
+                              36, 85, 178, 84, 7, 241, 182, 40, 25, 58, 213,
+                              251, 118, 70, 192, 124, 17, 235, 24, 97, 255, 197,
+                              193
+                            ]
+                          },
+                          "bytes": [
+                            1, 85, 18, 32, 56, 36, 136, 181, 53, 10, 181, 130,
+                            226, 36, 85, 178, 84, 7, 241, 182, 40, 25, 58, 213,
+                            251, 118, 70, 192, 124, 17, 235, 24, 97, 255, 197,
+                            193
+                          ]
+                        },
+                        "mimeType": "image/jpeg",
+                        "size": 649295
+                      }
+                    }
+                  }
+                ]
+              },
+              "langs": ["en"],
+              "createdAt": "2023-08-08T20:56:43.732Z"
+            },
+            "labels": [],
+            "indexedAt": "2023-08-08T20:56:44.354Z",
+            "embeds": [
+              {
+                "type": "app.bsky.embed.images#view",
+                "images": [
+                  {
+                    "thumb": "https://cdn.bsky.social/imgproxy/pugQZnqYGs4As0F9B6mjWY3mUc25_KXnqgYh4m3xQz4/rs:fit:1000:1000:1:0/plain/bafkreibeen6ftynqjmhdk3anfs7nwrdyzs3irbejtfqok2ae7h6rk5r3gy@jpeg",
+                    "fullsize": "https://cdn.bsky.social/imgproxy/g7qnbvFflt4IkOAQfAvCr_k5YmVdW0-5K9ODMJ4CBZA/rs:fit:2000:2000:1:0/plain/bafkreibeen6ftynqjmhdk3anfs7nwrdyzs3irbejtfqok2ae7h6rk5r3gy@jpeg",
+                    "alt": ""
+                  },
+                  {
+                    "thumb": "https://cdn.bsky.social/imgproxy/_Or5MgcYlPBhCES9XXX4kzP9OE6ZXhY7WJd_DfJXGlA/rs:fit:1000:1000:1:0/plain/bafkreibyeselknikwwboejcvwjkap4nwfamtvvp3ozdma7ar5mmgd76fye@jpeg",
+                    "fullsize": "https://cdn.bsky.social/imgproxy/SGKkr-BqMMgU435s_249VorFMQyKEiBSZR5Pmo5Xka8/rs:fit:2000:2000:1:0/plain/bafkreibyeselknikwwboejcvwjkap4nwfamtvvp3ozdma7ar5mmgd76fye@jpeg",
+                    "alt": ""
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "replyCount": 3,
+        "repostCount": 1,
+        "likeCount": 23,
+        "indexedAt": "2023-08-08T21:38:52.149Z",
+        "viewer": {},
+        "labels": [],
+        "viewUrl": "https://bsky.app/profile/philplait.bsky.social/post/3k4i2sam6q62v",
+        "parentPostId": null,
+        "rootPostId": null,
+        "quotedPostId": "6991cfca-8c75-4db2-b128-a03057297999",
+        "postType": "post"
+      },
+      "createdAt": "2023-08-08T21:38:52.149Z",
+      "platformMetrics": { "likes": 23, "reposts": 1, "comments": 3 },
+      "updatedAt": "2023-08-08T21:38:52.149Z"
+    },
+    "web3CreatorProfile": {
+      "_id": "did:plc:6zp4cfbvk6cqi7vf6gzb7ayy",
+      "farcaster": {},
+      "lens": {},
+      "yup": {},
+      "bsky": {
+        "did": "did:plc:6zp4cfbvk6cqi7vf6gzb7ayy",
+        "handle": "philplait.bsky.social",
+        "avatar": "https://cdn.bsky.social/imgproxy/jZ6U4n73rgORreBFgG7LB1T0Hx4OaWWSbF5jHpQihnQ/rs:fill:1000:1000:1:0/plain/bafkreieimb23eanwkfjt5yisdvaoqdoqp2xlbebj3ndo4wmw6d5vadrynu@jpeg",
+        "fullname": "Phil Plait",
+        "bio": "Bad Astronomer, SciCommer, Dork. He/him. Newsletter: badastronomy.substack.com"
+      },
+      "handle": "philplait.bsky.social",
+      "avatar": "https://cdn.bsky.social/imgproxy/jZ6U4n73rgORreBFgG7LB1T0Hx4OaWWSbF5jHpQihnQ/rs:fill:1000:1000:1:0/plain/bafkreieimb23eanwkfjt5yisdvaoqdoqp2xlbebj3ndo4wmw6d5vadrynu@jpeg",
+      "lastActiveDate": "2023-08-08T22:32:27.203Z",
+      "yupScore": 0,
+      "noData": false
+    },
+    "rawPositiveWeight": 5,
+    "quantiles": { "overall": "none", "popularity": "none" },
+    "sextiles": { "overall": "none", "popularity": "none" },
+    "weights": { "overall": 0, "popularity": 0 },
+    "avatar": ""
+  },
+  {
+    "_id": { "postid": "60dbc7f4-dcc5-450c-936a-f8b6acbefad1" },
+    "author": "yupcreators1",
+    "catVotes": { "overall": { "up": 9, "down": 0 } },
+    "claimedCreatorRewards": 0,
+    "createdAt": "2023-08-08T21:22:07.332Z",
+    "creatorInfluence": 0,
+    "creatorPoolRedeemed": 0,
+    "influence": { "false": 0, "true": 0 },
+    "isCrossPost": false,
+    "isFlagged": false,
+    "isModeratorFlagged": false,
+    "lang": "en",
+    "negativeWeight": 0,
+    "positiveWeight": 3.25,
+    "previewData": {
+      "creator": "",
+      "img": "https://cdn.bsky.social/imgproxy/sqkL3vNBnEnO_suEFi8A3E9iausIaVoWuVyOquBJG1k/rs:fit:1000:1000:1:0/plain/bafkreid2kqb7jmpcust2atb6bvunks242oxzvkiopxf46kto7w3jd75mxm@jpeg",
+      "title": "Do I just keep these forever and ever until I die?",
+      "description": "Do I just keep these forever and ever until I die?",
+      "lastUpdated": "1691532142458"
+    },
+    "rating": { "overall": { "ratingCount": 9, "ratingWeight": 0 } },
+    "secondaryTags": [],
+    "tag": "bsky",
+    "totalCreatorRewards": 0,
+    "updatedAt": "2023-08-08T21:22:07.332Z",
+    "url": "at://did:plc:bppz56h6f67t2tclkgq3h5oe/app.bsky.feed.post/3k4hzucegie2u",
+    "web3Preview": {
+      "id": "at://did:plc:bppz56h6f67t2tclkgq3h5oe/app.bsky.feed.post/3k4hzucegie2u",
+      "contentType": "Post",
+      "protocol": "bsky",
+      "creator": {
+        "address": "",
+        "did": "did:plc:bppz56h6f67t2tclkgq3h5oe",
+        "avatarUrl": "https://cdn.bsky.social/imgproxy/L37dn6Jrn_srMQK4jWJ034UkZ0ker9QNKvmcqtOsL1Y/rs:fill:1000:1000:1:0/plain/bafkreiary2kvy3i3gl6zdsfgshvqohjaofmfdnir72pwpditzjhvblurni@jpeg",
+        "handle": "pwr2dppl.bsky.social",
+        "fullname": "Dr. Abolish the Police",
+        "yupScore": 0
+      },
+      "attachments": [
+        {
+          "url": "https://cdn.bsky.social/imgproxy/sqkL3vNBnEnO_suEFi8A3E9iausIaVoWuVyOquBJG1k/rs:fit:1000:1000:1:0/plain/bafkreid2kqb7jmpcust2atb6bvunks242oxzvkiopxf46kto7w3jd75mxm@jpeg",
+          "title": "",
+          "description": "",
+          "images": [
+            "https://cdn.bsky.social/imgproxy/sqkL3vNBnEnO_suEFi8A3E9iausIaVoWuVyOquBJG1k/rs:fit:1000:1000:1:0/plain/bafkreid2kqb7jmpcust2atb6bvunks242oxzvkiopxf46kto7w3jd75mxm@jpeg"
+          ],
+          "videos": [],
+          "favicon": "",
+          "_id": "64d2b369628f926ed7e81953"
+        }
+      ],
+      "content": "Do I just keep these forever and ever until I die?",
+      "urls": [],
+      "linkPreview": [],
+      "mentions": {},
+      "meta": {
+        "uri": "at://did:plc:bppz56h6f67t2tclkgq3h5oe/app.bsky.feed.post/3k4hzucegie2u",
+        "cid": "bafyreigxufrs3bhn2cnezhvrpa4742w6rfyp53hjyn6b2scy2lhwavb5du",
+        "author": {
+          "did": "did:plc:bppz56h6f67t2tclkgq3h5oe",
+          "handle": "pwr2dppl.bsky.social",
+          "displayName": "Dr. Abolish the Police",
+          "avatar": "https://cdn.bsky.social/imgproxy/L37dn6Jrn_srMQK4jWJ034UkZ0ker9QNKvmcqtOsL1Y/rs:fill:1000:1000:1:0/plain/bafkreiary2kvy3i3gl6zdsfgshvqohjaofmfdnir72pwpditzjhvblurni@jpeg",
+          "viewer": { "muted": false, "blockedBy": false },
+          "labels": []
+        },
+        "record": {
+          "text": "Do I just keep these forever and ever until I die?",
+          "type": "app.bsky.feed.post",
+          "langs": ["en"],
+          "createdAt": "2023-08-08T21:22:05.872Z"
+        },
+        "embed": {
+          "type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.social/imgproxy/sqkL3vNBnEnO_suEFi8A3E9iausIaVoWuVyOquBJG1k/rs:fit:1000:1000:1:0/plain/bafkreid2kqb7jmpcust2atb6bvunks242oxzvkiopxf46kto7w3jd75mxm@jpeg",
+              "fullsize": "https://cdn.bsky.social/imgproxy/Z3r-MD3K48Z7Y7krsGFH3SCjGY-UN9LWqyeMLe5dH-k/rs:fit:2000:2000:1:0/plain/bafkreid2kqb7jmpcust2atb6bvunks242oxzvkiopxf46kto7w3jd75mxm@jpeg",
+              "alt": "Small L shaped metal tool (Allen key?)"
+            }
+          ]
+        },
+        "replyCount": 14,
+        "repostCount": 5,
+        "likeCount": 49,
+        "indexedAt": "2023-08-08T21:22:07.332Z",
+        "viewer": {},
+        "labels": [],
+        "viewUrl": "https://bsky.app/profile/pwr2dppl.bsky.social/post/3k4hzucegie2u",
+        "parentPostId": null,
+        "rootPostId": null,
+        "quotedPostId": null,
+        "postType": "post",
+        "isLabelled": true
+      },
+      "createdAt": "2023-08-08T21:22:07.332Z",
+      "platformMetrics": { "likes": 73, "reposts": 5, "comments": 14 },
+      "updatedAt": "2023-08-08T21:22:07.332Z"
+    },
+    "web3CreatorProfile": {
+      "_id": "did:plc:bppz56h6f67t2tclkgq3h5oe",
+      "farcaster": {},
+      "lens": {},
+      "yup": {},
+      "bsky": {
+        "did": "did:plc:bppz56h6f67t2tclkgq3h5oe",
+        "handle": "pwr2dppl.bsky.social",
+        "avatar": "https://cdn.bsky.social/imgproxy/aYzvTUBm_bcfKfsxzhgIaY9uLDEcqG8ojCxQvORZl4U/rs:fill:1000:1000:1:0/plain/bafkreidxym5w6lssdrbfldkxkmtpew2ufl3jxl4yd3v3bh2tregbnjhuoi@jpeg",
+        "fullname": "Dr. Abolish the Police",
+        "bio": "Math doer, void screamer into, skeeting for sklout waiting for an app that values Black people. She/they.\n\nhttps://twitter.com/pwr2dppl"
+      },
+      "handle": "pwr2dppl.bsky.social",
+      "avatar": "https://cdn.bsky.social/imgproxy/aYzvTUBm_bcfKfsxzhgIaY9uLDEcqG8ojCxQvORZl4U/rs:fill:1000:1000:1:0/plain/bafkreidxym5w6lssdrbfldkxkmtpew2ufl3jxl4yd3v3bh2tregbnjhuoi@jpeg",
+      "lastActiveDate": "2023-08-08T22:32:27.203Z",
+      "yupScore": 0,
+      "noData": false
+    },
+    "rawPositiveWeight": 65,
+    "quantiles": { "overall": "none", "popularity": "none" },
+    "sextiles": { "overall": "none", "popularity": "none" },
+    "weights": { "overall": 0, "popularity": 0 },
+    "avatar": ""
+  },
+  {
+    "_id": { "postid": "992afef4-d41d-44ad-bdcb-cc47a3f155b6" },
+    "author": "yupcreators1",
+    "catVotes": { "overall": { "up": 2, "down": 0 } },
+    "claimedCreatorRewards": 0,
+    "createdAt": "2023-08-08T21:46:46.925Z",
+    "creatorInfluence": 0,
+    "creatorPoolRedeemed": 0,
+    "influence": { "false": 0, "true": 0 },
+    "isCrossPost": false,
+    "isFlagged": false,
+    "isModeratorFlagged": false,
+    "lang": "en",
+    "negativeWeight": 0,
+    "positiveWeight": 0.7000000000000001,
+    "previewData": {
+      "creator": "",
+      "img": "",
+      "title": "shouts to the guy who just yelled “can’t block the sidewalk like that, bitches” while careening on an e scooter toward a group of women standing on the sidewalk in DC’s central business district, an area where you are not allowed to ride a scooter on the sidewalk",
+      "description": "shouts to the guy who just yelled “can’t block the sidewalk like that, bitches” while careening on an e scooter toward a group of women standing on the sidewalk in DC’s central business district, an area where you are not allowed to ride a scooter on the sidewalk"
+    },
+    "rating": { "overall": { "ratingCount": 2, "ratingWeight": 0 } },
+    "secondaryTags": [],
+    "tag": "bsky",
+    "totalCreatorRewards": 0,
+    "updatedAt": "2023-08-08T21:46:46.925Z",
+    "url": "at://did:plc:maiw2rfujepnphhrejytvuu5/app.bsky.feed.post/3k4i3af2rb322",
+    "web3Preview": {
+      "id": "at://did:plc:maiw2rfujepnphhrejytvuu5/app.bsky.feed.post/3k4i3af2rb322",
+      "contentType": "Post",
+      "protocol": "bsky",
+      "creator": {
+        "address": "",
+        "did": "did:plc:maiw2rfujepnphhrejytvuu5",
+        "avatarUrl": "https://cdn.bsky.social/imgproxy/WAFxsj4j7qGWzVLvCEmcztFglaDiKzPFOETN7uFJUeQ/rs:fill:1000:1000:1:0/plain/bafkreidx2kxszlgnvium7cs5h3e3dluaw2a77lonpsigehatcf3aktrgnq@jpeg",
+        "handle": "qjurecic.bsky.social",
+        "fullname": "Quinta Jurecic",
+        "yupScore": 0
+      },
+      "attachments": [],
+      "content": "shouts to the guy who just yelled “can’t block the sidewalk like that, bitches” while careening on an e scooter toward a group of women standing on the sidewalk in DC’s central business district, an area where you are not allowed to ride a scooter on the sidewalk",
+      "urls": [],
+      "linkPreview": [],
+      "mentions": {},
+      "meta": {
+        "uri": "at://did:plc:maiw2rfujepnphhrejytvuu5/app.bsky.feed.post/3k4i3af2rb322",
+        "cid": "bafyreig2b3yotkdmz6b5rftoia7vzraudm46nnae6ectmq3ylqcecer6ey",
+        "author": {
+          "did": "did:plc:maiw2rfujepnphhrejytvuu5",
+          "handle": "qjurecic.bsky.social",
+          "displayName": "Quinta Jurecic",
+          "avatar": "https://cdn.bsky.social/imgproxy/WAFxsj4j7qGWzVLvCEmcztFglaDiKzPFOETN7uFJUeQ/rs:fill:1000:1000:1:0/plain/bafkreidx2kxszlgnvium7cs5h3e3dluaw2a77lonpsigehatcf3aktrgnq@jpeg",
+          "viewer": { "muted": false, "blockedBy": false },
+          "labels": []
+        },
+        "record": {
+          "text": "shouts to the guy who just yelled “can’t block the sidewalk like that, bitches” while careening on an e scooter toward a group of women standing on the sidewalk in DC’s central business district, an area where you are not allowed to ride a scooter on the sidewalk",
+          "type": "app.bsky.feed.post",
+          "langs": ["en", "es"],
+          "createdAt": "2023-08-08T21:46:46.388Z"
+        },
+        "replyCount": 2,
+        "repostCount": 2,
+        "likeCount": 16,
+        "indexedAt": "2023-08-08T21:46:46.925Z",
+        "viewer": {},
+        "labels": [],
+        "viewUrl": "https://bsky.app/profile/qjurecic.bsky.social/post/3k4i3af2rb322",
+        "parentPostId": null,
+        "rootPostId": null,
+        "quotedPostId": null,
+        "postType": "post",
+        "isLabelled": false
+      },
+      "createdAt": "2023-08-08T21:46:46.925Z",
+      "platformMetrics": { "likes": 18, "reposts": 2, "comments": 2 },
+      "updatedAt": "2023-08-08T21:46:46.925Z"
+    },
+    "web3CreatorProfile": {
+      "_id": "did:plc:maiw2rfujepnphhrejytvuu5",
+      "farcaster": {},
+      "lens": {},
+      "yup": {},
+      "bsky": {
+        "did": "did:plc:maiw2rfujepnphhrejytvuu5",
+        "handle": "qjurecic.bsky.social",
+        "avatar": "https://cdn.bsky.social/imgproxy/WAFxsj4j7qGWzVLvCEmcztFglaDiKzPFOETN7uFJUeQ/rs:fill:1000:1000:1:0/plain/bafkreidx2kxszlgnvium7cs5h3e3dluaw2a77lonpsigehatcf3aktrgnq@jpeg",
+        "fullname": "Quinta Jurecic",
+        "bio": "I write about law, democracy, and the internet. I'm a senior editor at Lawfare, a fellow at the Brookings Institution, and a contributing writer at The Atlantic. Other words in other places."
+      },
+      "handle": "qjurecic.bsky.social",
+      "avatar": "https://cdn.bsky.social/imgproxy/WAFxsj4j7qGWzVLvCEmcztFglaDiKzPFOETN7uFJUeQ/rs:fill:1000:1000:1:0/plain/bafkreidx2kxszlgnvium7cs5h3e3dluaw2a77lonpsigehatcf3aktrgnq@jpeg",
+      "lastActiveDate": "2023-08-08T22:32:27.203Z",
+      "yupScore": 0,
+      "noData": false
+    },
+    "rawPositiveWeight": 14,
+    "quantiles": { "overall": "none", "popularity": "none" },
+    "sextiles": { "overall": "none", "popularity": "none" },
+    "weights": { "overall": 0, "popularity": 0 },
+    "avatar": ""
+  },
+  {
+    "_id": { "postid": "46546de0-91c5-4b05-bd14-13246b349698" },
+    "author": "yupcreators1",
+    "catVotes": { "overall": { "up": 8, "down": 0 } },
+    "claimedCreatorRewards": 0,
+    "createdAt": "2023-08-08T21:14:34.216Z",
+    "creatorInfluence": 0,
+    "creatorPoolRedeemed": 0,
+    "influence": { "false": 0, "true": 0 },
+    "isCrossPost": false,
+    "isFlagged": false,
+    "isModeratorFlagged": false,
+    "lang": "en",
+    "negativeWeight": 0,
+    "positiveWeight": 2.9000000000000004,
+    "previewData": {
+      "creator": "",
+      "img": "https://cdn.bsky.social/imgproxy/Qkn5eHYPrJzW3FU206ZtURMhdp__mJ-iLzsLc13cgek/rs:fit:1000:1000:1:0/plain/bafkreial4gl4npd7ggfe34joopzuob2v7d7qifhnhed2erahr3hg72g52m@jpeg",
+      "title": "grimes just did an interview with wired and uhhhhh \n\nhttps://www.wired.com/story/grimes-big-interview/",
+      "description": "grimes just did an interview with wired and uhhhhh \n\nhttps://www.wired.com/story/grimes-big-interview/",
+      "lastUpdated": "1691532142396"
+    },
+    "rating": { "overall": { "ratingCount": 8, "ratingWeight": 0 } },
+    "secondaryTags": [],
+    "tag": "bsky",
+    "totalCreatorRewards": 0,
+    "updatedAt": "2023-08-08T21:14:34.216Z",
+    "url": "at://did:plc:m7w6mfn35d53chutrzjzgkng/app.bsky.feed.post/3k4hzgsbtdm2q",
+    "web3Preview": {
+      "id": "at://did:plc:m7w6mfn35d53chutrzjzgkng/app.bsky.feed.post/3k4hzgsbtdm2q",
+      "contentType": "Post",
+      "protocol": "bsky",
+      "creator": {
+        "address": "",
+        "did": "did:plc:m7w6mfn35d53chutrzjzgkng",
+        "avatarUrl": "https://cdn.bsky.social/imgproxy/l4MiJamlxfuWJzC5gpON7C08gGW8tyBgnNpgclHDYvk/rs:fill:1000:1000:1:0/plain/bafkreicqlciyacg5syrdyjl6d7paapryoovusaw3iabdrifhphpoqpueo4@jpeg",
+        "handle": "bestofdyingtwit.bsky.social",
+        "fullname": "Best of Dying Twiter",
+        "yupScore": 0
+      },
+      "attachments": [
+        {
+          "url": "https://cdn.bsky.social/imgproxy/Qkn5eHYPrJzW3FU206ZtURMhdp__mJ-iLzsLc13cgek/rs:fit:1000:1000:1:0/plain/bafkreial4gl4npd7ggfe34joopzuob2v7d7qifhnhed2erahr3hg72g52m@jpeg",
+          "title": "",
+          "description": "",
+          "images": [
+            "https://cdn.bsky.social/imgproxy/Qkn5eHYPrJzW3FU206ZtURMhdp__mJ-iLzsLc13cgek/rs:fit:1000:1000:1:0/plain/bafkreial4gl4npd7ggfe34joopzuob2v7d7qifhnhed2erahr3hg72g52m@jpeg"
+          ],
+          "videos": [],
+          "favicon": "",
+          "_id": "64d2b125628f926ed7e6ed27"
+        },
+        {
+          "url": "https://www.wired.com/story/grimes-big-interview/",
+          "title": "",
+          "description": "",
+          "images": [],
+          "videos": [],
+          "favicon": "",
+          "_id": "64d2b125628f926ed7e6ed28"
+        }
+      ],
+      "content": "grimes just did an interview with wired and uhhhhh \n\nhttps://www.wired.com/story/grimes-big-interview/",
+      "urls": ["https://www.wired.com/story/grimes-big-interview/"],
+      "linkPreview": [],
+      "mentions": {},
+      "meta": {
+        "uri": "at://did:plc:m7w6mfn35d53chutrzjzgkng/app.bsky.feed.post/3k4hzgsbtdm2q",
+        "cid": "bafyreidrvo7a6jllrmggnt4ju5imtwsyb6r4zekxtk5me7ofpnv33j4tlu",
+        "author": {
+          "did": "did:plc:m7w6mfn35d53chutrzjzgkng",
+          "handle": "bestofdyingtwit.bsky.social",
+          "displayName": "Best of Dying Twiter",
+          "avatar": "https://cdn.bsky.social/imgproxy/l4MiJamlxfuWJzC5gpON7C08gGW8tyBgnNpgclHDYvk/rs:fill:1000:1000:1:0/plain/bafkreicqlciyacg5syrdyjl6d7paapryoovusaw3iabdrifhphpoqpueo4@jpeg",
+          "viewer": { "muted": false, "blockedBy": false },
+          "labels": []
+        },
+        "record": {
+          "text": "grimes just did an interview with wired and uhhhhh \n\nhttps://www.wired.com/story/grimes-big-interview/",
+          "type": "app.bsky.feed.post",
+          "langs": ["en"],
+          "createdAt": "2023-08-08T21:14:34.144Z"
+        },
+        "embed": {
+          "type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.social/imgproxy/Qkn5eHYPrJzW3FU206ZtURMhdp__mJ-iLzsLc13cgek/rs:fit:1000:1000:1:0/plain/bafkreial4gl4npd7ggfe34joopzuob2v7d7qifhnhed2erahr3hg72g52m@jpeg",
+              "fullsize": "https://cdn.bsky.social/imgproxy/Y6EJzPaAhae6Q4UWXoW799T7NB4ewK7mBwCXajjbflE/rs:fit:2000:2000:1:0/plain/bafkreial4gl4npd7ggfe34joopzuob2v7d7qifhnhed2erahr3hg72g52m@jpeg",
+              "alt": "Excerpt from WIRED article: \n\nYou mentioned Twitter. Did you call out to Elon that you were disturbed by some of his tweets?\n\nI don’t want to talk about this too much. But take the trans thing. After that, we had a big, long conversation. I was like, “I want to dissect why you’re so stressed about this.” Getting to the heart of what Elon says helps me get to the heart of what other people’s issues are, because it’s this über guy situation. And it came down to pretty much every way that you transition can cause fertility issues. I was like, OK, you don’t hate trans people, you hate woke culture. I get that it can be annoying, and you have concerns about the fertility thing. So let’s figure it out, because there’s a lot of fertility tech that could be innovated that would help trans people have kids, which would be great and would solve a lot of problems. He’s just on Twitter, and he’s unhappy with woke people, and the arguments happened."
+            }
+          ]
+        },
+        "replyCount": 11,
+        "repostCount": 6,
+        "likeCount": 40,
+        "indexedAt": "2023-08-08T21:14:34.216Z",
+        "viewer": {},
+        "labels": [],
+        "viewUrl": "https://bsky.app/profile/bestofdyingtwit.bsky.social/post/3k4hzgsbtdm2q",
+        "parentPostId": null,
+        "rootPostId": null,
+        "quotedPostId": null,
+        "postType": "post",
+        "isLabelled": true
+      },
+      "createdAt": "2023-08-08T21:14:34.216Z",
+      "platformMetrics": { "likes": 66, "reposts": 6, "comments": 11 },
+      "updatedAt": "2023-08-08T21:14:34.216Z"
+    },
+    "keywords": [],
+    "web3CreatorProfile": {
+      "_id": "did:plc:m7w6mfn35d53chutrzjzgkng",
+      "farcaster": {},
+      "lens": {},
+      "yup": {},
+      "bsky": {
+        "did": "did:plc:m7w6mfn35d53chutrzjzgkng",
+        "handle": "bestofdyingtwit.bsky.social",
+        "avatar": "https://cdn.bsky.social/imgproxy/l4MiJamlxfuWJzC5gpON7C08gGW8tyBgnNpgclHDYvk/rs:fill:1000:1000:1:0/plain/bafkreicqlciyacg5syrdyjl6d7paapryoovusaw3iabdrifhphpoqpueo4@jpeg",
+        "fullname": "Best of Dying Twiter",
+        "bio": "Looking into it. Chief Looker: @jenn.bsky.social\n\ntwitter.com/bestofdyingtwit"
+      },
+      "handle": "bestofdyingtwit.bsky.social",
+      "avatar": "https://cdn.bsky.social/imgproxy/l4MiJamlxfuWJzC5gpON7C08gGW8tyBgnNpgclHDYvk/rs:fill:1000:1000:1:0/plain/bafkreicqlciyacg5syrdyjl6d7paapryoovusaw3iabdrifhphpoqpueo4@jpeg",
+      "lastActiveDate": "2023-08-08T22:32:27.203Z",
+      "yupScore": 0,
+      "noData": false
+    },
+    "rawPositiveWeight": 58,
+    "quantiles": { "overall": "none", "popularity": "none" },
+    "sextiles": { "overall": "none", "popularity": "none" },
+    "weights": { "overall": 0, "popularity": 0 },
+    "avatar": ""
+  },
+  {
+    "_id": { "postid": "633ae4f7-8bd3-433f-aec7-fd9979e87d12" },
+    "author": "yupcreators1",
+    "catVotes": { "overall": { "up": 3, "down": 0 } },
+    "claimedCreatorRewards": 0,
+    "createdAt": "2023-08-08T21:07:18.479Z",
+    "creatorInfluence": 0,
+    "creatorPoolRedeemed": 0,
+    "influence": { "false": 0, "true": 0 },
+    "isCrossPost": false,
+    "isFlagged": false,
+    "isModeratorFlagged": false,
+    "lang": "en",
+    "negativeWeight": 0,
+    "positiveWeight": 1,
+    "previewData": {
+      "creator": "",
+      "img": "",
+      "title": "We’ve been calling them skeets for a while",
+      "description": "We’ve been calling them skeets for a while",
+      "lastUpdated": "1691532142390"
+    },
+    "rating": { "overall": { "ratingCount": 3, "ratingWeight": 0 } },
+    "secondaryTags": [],
+    "tag": "bsky",
+    "totalCreatorRewards": 0,
+    "updatedAt": "2023-08-08T21:07:18.479Z",
+    "url": "at://did:plc:v4ohdv3xxwoqbitlvaifelue/app.bsky.feed.post/3k4hyzspjfk2v",
+    "web3Preview": {
+      "id": "at://did:plc:v4ohdv3xxwoqbitlvaifelue/app.bsky.feed.post/3k4hyzspjfk2v",
+      "contentType": "Post",
+      "protocol": "bsky",
+      "creator": {
+        "address": "",
+        "did": "did:plc:v4ohdv3xxwoqbitlvaifelue",
+        "avatarUrl": "https://cdn.bsky.social/imgproxy/dAdJ5rYrQ8GKLADy51KD6ACzbRcIa5JLULAuDDUyVms/rs:fill:1000:1000:1:0/plain/bafkreierlocaxd3x5nkhrohtswckdkfyeermn6nblszfiojig5rydi3gc4@jpeg",
+        "handle": "boozybadger.bsky.social",
+        "fullname": "Col. Boozy Badger",
+        "yupScore": 0
+      },
+      "attachments": [],
+      "content": "We’ve been calling them skeets for a while",
+      "urls": [],
+      "linkPreview": [],
+      "mentions": {},
+      "meta": {
+        "uri": "at://did:plc:v4ohdv3xxwoqbitlvaifelue/app.bsky.feed.post/3k4hyzspjfk2v",
+        "cid": "bafyreicpsckf5wgkvcjckjniu4r55ot3zgmyh4xhohjo5c52izspq5sh4m",
+        "author": {
+          "did": "did:plc:v4ohdv3xxwoqbitlvaifelue",
+          "handle": "boozybadger.bsky.social",
+          "displayName": "Col. Boozy Badger",
+          "avatar": "https://cdn.bsky.social/imgproxy/dAdJ5rYrQ8GKLADy51KD6ACzbRcIa5JLULAuDDUyVms/rs:fill:1000:1000:1:0/plain/bafkreierlocaxd3x5nkhrohtswckdkfyeermn6nblszfiojig5rydi3gc4@jpeg",
+          "viewer": { "muted": false, "blockedBy": false },
+          "labels": []
+        },
+        "record": {
+          "text": "We’ve been calling them skeets for a while",
+          "type": "app.bsky.feed.post",
+          "langs": ["en"],
+          "reply": {
+            "root": {
+              "cid": "bafyreids66rjhfqfdefn7iylklhiq6flsqpqbtl7tahdphjfm5pdpk4i6a",
+              "uri": "at://did:plc:v4ohdv3xxwoqbitlvaifelue/app.bsky.feed.post/3k4hmui7hj222"
+            },
+            "parent": {
+              "cid": "bafyreihowmtso2bgrinasigsdydz4g5lcy5blzqulbhceichnqeuvdzgxu",
+              "uri": "at://did:plc:stuy2zhdeq2klhfebvoss7xo/app.bsky.feed.post/3k4hwnwmobh22"
+            }
+          },
+          "createdAt": "2023-08-08T21:07:18.418Z"
+        },
+        "replyCount": 6,
+        "repostCount": 0,
+        "likeCount": 24,
+        "indexedAt": "2023-08-08T21:07:18.479Z",
+        "viewer": {},
+        "labels": [],
+        "viewUrl": "https://bsky.app/profile/boozybadger.bsky.social/post/3k4hyzspjfk2v",
+        "parentPostId": "40dd1123-4908-4ade-88a9-0b18275804ad",
+        "rootPostId": "6f20e4fb-4a0a-49ac-baca-26c8bba2b8b8",
+        "quotedPostId": null,
+        "postType": "reply-to-reply",
+        "parentPost": {
+          "_id": { "postid": "40dd1123-4908-4ade-88a9-0b18275804ad" },
+          "author": "yupcreators1",
+          "catVotes": { "overall": { "up": 0, "down": 0 } },
+          "claimedCreatorRewards": 0,
+          "createdAt": "2023-08-08T20:24:52.448Z",
+          "creatorInfluence": 0,
+          "creatorPoolRedeemed": 0,
+          "influence": { "false": 0, "true": 0 },
+          "isCrossPost": false,
+          "isFlagged": false,
+          "isModeratorFlagged": false,
+          "lang": "en",
+          "negativeWeight": 0,
+          "positiveWeight": 0,
+          "previewData": {
+            "creator": "",
+            "img": "",
+            "title": "... Are people genuinely going with calling them \"skeets\" or is that just an attempt by an 18+ feed to be clever? >.>",
+            "description": "... Are people genuinely going with calling them \"skeets\" or is that just an attempt by an 18+ feed to be clever? >.>"
+          },
+          "rating": { "overall": { "ratingCount": 0, "ratingWeight": 0 } },
+          "secondaryTags": [],
+          "tag": "bsky",
+          "totalCreatorRewards": 0,
+          "updatedAt": "2023-08-08T20:24:52.448Z",
+          "url": "at://did:plc:stuy2zhdeq2klhfebvoss7xo/app.bsky.feed.post/3k4hwnwmobh22",
+          "web3Preview": {
+            "id": "at://did:plc:stuy2zhdeq2klhfebvoss7xo/app.bsky.feed.post/3k4hwnwmobh22",
+            "contentType": "Post",
+            "protocol": "bsky",
+            "creator": {
+              "address": "",
+              "did": "did:plc:stuy2zhdeq2klhfebvoss7xo",
+              "avatarUrl": "https://cdn.bsky.social/imgproxy/POMxSsU52tSqbkviTr7d9uW-XhQxF7mJWZqichMwC90/rs:fill:1000:1000:1:0/plain/bafkreicb4xtpo3wcahldyko2vysqxre7xfdkuij2fcyjl72bsedvcu4nyi@jpeg",
+              "handle": "amiraallis.bsky.social",
+              "fullname": "Amira",
+              "yupScore": 0
+            },
+            "attachments": [],
+            "content": "... Are people genuinely going with calling them \"skeets\" or is that just an attempt by an 18+ feed to be clever? >.>",
+            "urls": [],
+            "linkPreview": [],
+            "mentions": {},
+            "meta": {
+              "uri": "at://did:plc:stuy2zhdeq2klhfebvoss7xo/app.bsky.feed.post/3k4hwnwmobh22",
+              "cid": "bafyreihowmtso2bgrinasigsdydz4g5lcy5blzqulbhceichnqeuvdzgxu",
+              "author": {
+                "did": "did:plc:stuy2zhdeq2klhfebvoss7xo",
+                "handle": "amiraallis.bsky.social",
+                "displayName": "Amira",
+                "avatar": "https://cdn.bsky.social/imgproxy/POMxSsU52tSqbkviTr7d9uW-XhQxF7mJWZqichMwC90/rs:fill:1000:1000:1:0/plain/bafkreicb4xtpo3wcahldyko2vysqxre7xfdkuij2fcyjl72bsedvcu4nyi@jpeg",
+                "viewer": { "muted": false, "blockedBy": false },
+                "labels": []
+              },
+              "record": {
+                "text": "... Are people genuinely going with calling them \"skeets\" or is that just an attempt by an 18+ feed to be clever? >.>",
+                "type": "app.bsky.feed.post",
+                "langs": ["en"],
+                "reply": {
+                  "root": {
+                    "cid": "bafyreids66rjhfqfdefn7iylklhiq6flsqpqbtl7tahdphjfm5pdpk4i6a",
+                    "uri": "at://did:plc:v4ohdv3xxwoqbitlvaifelue/app.bsky.feed.post/3k4hmui7hj222"
+                  },
+                  "parent": {
+                    "cid": "bafyreids66rjhfqfdefn7iylklhiq6flsqpqbtl7tahdphjfm5pdpk4i6a",
+                    "uri": "at://did:plc:v4ohdv3xxwoqbitlvaifelue/app.bsky.feed.post/3k4hmui7hj222"
+                  }
+                },
+                "createdAt": "2023-08-08T20:24:55.441Z"
+              },
+              "replyCount": 2,
+              "repostCount": 0,
+              "likeCount": 8,
+              "indexedAt": "2023-08-08T20:24:52.448Z",
+              "viewer": {},
+              "labels": [],
+              "viewUrl": "https://bsky.app/profile/amiraallis.bsky.social/post/3k4hwnwmobh22",
+              "parentPostId": "6f20e4fb-4a0a-49ac-baca-26c8bba2b8b8",
+              "rootPostId": "6f20e4fb-4a0a-49ac-baca-26c8bba2b8b8",
+              "quotedPostId": null,
+              "postType": "reply"
+            },
+            "createdAt": "2023-08-08T20:24:52.448Z",
+            "platformMetrics": { "likes": 8, "reposts": 0, "comments": 2 },
+            "updatedAt": "2023-08-08T20:24:52.448Z"
+          },
+          "web3CreatorProfile": {
+            "_id": "did:plc:stuy2zhdeq2klhfebvoss7xo",
+            "farcaster": {},
+            "lens": {},
+            "yup": {},
+            "bsky": {
+              "did": "did:plc:stuy2zhdeq2klhfebvoss7xo",
+              "handle": "amiraallis.bsky.social",
+              "avatar": "https://cdn.bsky.social/imgproxy/POMxSsU52tSqbkviTr7d9uW-XhQxF7mJWZqichMwC90/rs:fill:1000:1000:1:0/plain/bafkreicb4xtpo3wcahldyko2vysqxre7xfdkuij2fcyjl72bsedvcu4nyi@jpeg",
+              "fullname": "Amira",
+              "bio": "Art Cryptid ▪ Doodles & Comics ▪ Banana in Disguise ▪ Fastest Doodle in the West ▪ Comms closed ▪ They/Them"
+            },
+            "handle": "amiraallis.bsky.social",
+            "avatar": "https://cdn.bsky.social/imgproxy/POMxSsU52tSqbkviTr7d9uW-XhQxF7mJWZqichMwC90/rs:fill:1000:1000:1:0/plain/bafkreicb4xtpo3wcahldyko2vysqxre7xfdkuij2fcyjl72bsedvcu4nyi@jpeg",
+            "lastActiveDate": "2023-08-08T22:32:27.203Z",
+            "yupScore": 0,
+            "noData": false
+          }
+        },
+        "rootPost": {
+          "_id": { "postid": "6f20e4fb-4a0a-49ac-baca-26c8bba2b8b8" },
+          "author": "yupcreators1",
+          "catVotes": { "overall": { "up": 0, "down": 0 } },
+          "claimedCreatorRewards": 0,
+          "createdAt": "2023-08-08T17:29:34.785Z",
+          "creatorInfluence": 0,
+          "creatorPoolRedeemed": 0,
+          "influence": { "false": 0, "true": 0 },
+          "isCrossPost": false,
+          "isFlagged": false,
+          "isModeratorFlagged": false,
+          "lang": "en",
+          "negativeWeight": 0,
+          "positiveWeight": 0,
+          "previewData": {
+            "creator": "",
+            "img": "https://cdn.bsky.social/imgproxy/Fps5GRVsvPaK1msGP-nwbabYKYyutjA73056F9IeyvM/rs:fit:1000:1000:1:0/plain/bafkreifxzpfzmibuy7orit2oye7yuobs2votxxwi6f6k7qni66lahiy4ja@jpeg",
+            "title": "The fact that furry porn has begun appearing on this feed implies the computer recognition driven moderation system is learning what a dragon dick looks like.",
+            "description": "The fact that furry porn has begun appearing on this feed implies the computer recognition driven moderation system is learning what a dragon dick looks like."
+          },
+          "rating": { "overall": { "ratingCount": 0, "ratingWeight": 0 } },
+          "secondaryTags": [],
+          "tag": "bsky",
+          "totalCreatorRewards": 0,
+          "updatedAt": "2023-08-08T17:29:34.785Z",
+          "url": "at://did:plc:v4ohdv3xxwoqbitlvaifelue/app.bsky.feed.post/3k4hmui7hj222",
+          "web3Preview": {
+            "id": "at://did:plc:v4ohdv3xxwoqbitlvaifelue/app.bsky.feed.post/3k4hmui7hj222",
+            "contentType": "Post",
+            "protocol": "bsky",
+            "creator": {
+              "address": "",
+              "did": "did:plc:v4ohdv3xxwoqbitlvaifelue",
+              "avatarUrl": "https://cdn.bsky.social/imgproxy/dAdJ5rYrQ8GKLADy51KD6ACzbRcIa5JLULAuDDUyVms/rs:fill:1000:1000:1:0/plain/bafkreierlocaxd3x5nkhrohtswckdkfyeermn6nblszfiojig5rydi3gc4@jpeg",
+              "handle": "boozybadger.bsky.social",
+              "fullname": "Col. Boozy Badger",
+              "yupScore": 0
+            },
+            "attachments": [
+              {
+                "url": "https://cdn.bsky.social/imgproxy/Fps5GRVsvPaK1msGP-nwbabYKYyutjA73056F9IeyvM/rs:fit:1000:1000:1:0/plain/bafkreifxzpfzmibuy7orit2oye7yuobs2votxxwi6f6k7qni66lahiy4ja@jpeg",
+                "title": "",
+                "description": "",
+                "images": [
+                  "https://cdn.bsky.social/imgproxy/Fps5GRVsvPaK1msGP-nwbabYKYyutjA73056F9IeyvM/rs:fit:1000:1000:1:0/plain/bafkreifxzpfzmibuy7orit2oye7yuobs2votxxwi6f6k7qni66lahiy4ja@jpeg"
+                ],
+                "videos": [],
+                "favicon": "",
+                "_id": "64d2ba8f628f926ed7eb975a"
+              }
+            ],
+            "content": "The fact that furry porn has begun appearing on this feed implies the computer recognition driven moderation system is learning what a dragon dick looks like.",
+            "urls": [],
+            "linkPreview": [],
+            "mentions": {},
+            "meta": {
+              "uri": "at://did:plc:v4ohdv3xxwoqbitlvaifelue/app.bsky.feed.post/3k4hmui7hj222",
+              "cid": "bafyreids66rjhfqfdefn7iylklhiq6flsqpqbtl7tahdphjfm5pdpk4i6a",
+              "author": {
+                "did": "did:plc:v4ohdv3xxwoqbitlvaifelue",
+                "handle": "boozybadger.bsky.social",
+                "displayName": "Col. Boozy Badger",
+                "avatar": "https://cdn.bsky.social/imgproxy/dAdJ5rYrQ8GKLADy51KD6ACzbRcIa5JLULAuDDUyVms/rs:fill:1000:1000:1:0/plain/bafkreierlocaxd3x5nkhrohtswckdkfyeermn6nblszfiojig5rydi3gc4@jpeg",
+                "viewer": { "muted": false, "blockedBy": false },
+                "labels": []
+              },
+              "record": {
+                "text": "The fact that furry porn has begun appearing on this feed implies the computer recognition driven moderation system is learning what a dragon dick looks like.",
+                "type": "app.bsky.feed.post",
+                "langs": ["en"],
+                "createdAt": "2023-08-08T17:29:33.977Z"
+              },
+              "embed": {
+                "type": "app.bsky.embed.images#view",
+                "images": [
+                  {
+                    "thumb": "https://cdn.bsky.social/imgproxy/Fps5GRVsvPaK1msGP-nwbabYKYyutjA73056F9IeyvM/rs:fit:1000:1000:1:0/plain/bafkreifxzpfzmibuy7orit2oye7yuobs2votxxwi6f6k7qni66lahiy4ja@jpeg",
+                    "fullsize": "https://cdn.bsky.social/imgproxy/g-uVQBgdVaDL8ZqfjvElsTwahysLta19-L0Hp1E27yo/rs:fit:2000:2000:1:0/plain/bafkreifxzpfzmibuy7orit2oye7yuobs2votxxwi6f6k7qni66lahiy4ja@jpeg",
+                    "alt": "A screenshot of the suggestive feed that identifies it as a feed that compiles images from the last 24 hours that was labeled by the content moderation system."
+                  }
+                ]
+              },
+              "replyCount": 9,
+              "repostCount": 13,
+              "likeCount": 129,
+              "indexedAt": "2023-08-08T17:29:34.785Z",
+              "viewer": {},
+              "labels": [],
+              "viewUrl": "https://bsky.app/profile/boozybadger.bsky.social/post/3k4hmui7hj222",
+              "parentPostId": null,
+              "rootPostId": null,
+              "quotedPostId": null,
+              "postType": "post"
+            },
+            "createdAt": "2023-08-08T17:29:34.785Z",
+            "platformMetrics": { "likes": 129, "reposts": 13, "comments": 9 },
+            "updatedAt": "2023-08-08T17:29:34.785Z"
+          },
+          "web3CreatorProfile": {
+            "_id": "did:plc:v4ohdv3xxwoqbitlvaifelue",
+            "farcaster": {},
+            "lens": {},
+            "yup": {},
+            "bsky": {
+              "did": "did:plc:v4ohdv3xxwoqbitlvaifelue",
+              "handle": "boozybadger.bsky.social",
+              "avatar": "https://cdn.bsky.social/imgproxy/dAdJ5rYrQ8GKLADy51KD6ACzbRcIa5JLULAuDDUyVms/rs:fill:1000:1000:1:0/plain/bafkreierlocaxd3x5nkhrohtswckdkfyeermn6nblszfiojig5rydi3gc4@jpeg",
+              "fullname": "Col. Boozy Badger",
+              "bio": "Lawyer/song and dance man/comedic performer/Law Talker. Kentucky Colonel. Host of Boozy’s Legal Funhouse podcast. He/Him. Find Me Other places: https://linktr.ee/boozybadger . Not your lawyer."
+            },
+            "handle": "boozybadger.bsky.social",
+            "avatar": "https://cdn.bsky.social/imgproxy/dAdJ5rYrQ8GKLADy51KD6ACzbRcIa5JLULAuDDUyVms/rs:fill:1000:1000:1:0/plain/bafkreierlocaxd3x5nkhrohtswckdkfyeermn6nblszfiojig5rydi3gc4@jpeg",
+            "lastActiveDate": "2023-08-08T22:32:27.203Z",
+            "yupScore": 0,
+            "noData": false
+          }
+        }
+      },
+      "createdAt": "2023-08-08T21:07:18.479Z",
+      "platformMetrics": { "likes": 24, "reposts": 0, "comments": 6 },
+      "updatedAt": "2023-08-08T21:07:18.479Z"
+    },
+    "web3CreatorProfile": {
+      "_id": "did:plc:v4ohdv3xxwoqbitlvaifelue",
+      "farcaster": {},
+      "lens": {},
+      "yup": {},
+      "bsky": {
+        "did": "did:plc:v4ohdv3xxwoqbitlvaifelue",
+        "handle": "boozybadger.bsky.social",
+        "avatar": "https://cdn.bsky.social/imgproxy/dAdJ5rYrQ8GKLADy51KD6ACzbRcIa5JLULAuDDUyVms/rs:fill:1000:1000:1:0/plain/bafkreierlocaxd3x5nkhrohtswckdkfyeermn6nblszfiojig5rydi3gc4@jpeg",
+        "fullname": "Col. Boozy Badger",
+        "bio": "Lawyer/song and dance man/comedic performer/Law Talker. Kentucky Colonel. Host of Boozy’s Legal Funhouse podcast. He/Him. Find Me Other places: https://linktr.ee/boozybadger . Not your lawyer."
+      },
+      "handle": "boozybadger.bsky.social",
+      "avatar": "https://cdn.bsky.social/imgproxy/dAdJ5rYrQ8GKLADy51KD6ACzbRcIa5JLULAuDDUyVms/rs:fill:1000:1000:1:0/plain/bafkreierlocaxd3x5nkhrohtswckdkfyeermn6nblszfiojig5rydi3gc4@jpeg",
+      "lastActiveDate": "2023-08-08T22:32:27.203Z",
+      "yupScore": 0,
+      "noData": false
+    },
+    "rawPositiveWeight": 20,
+    "quantiles": { "overall": "none", "popularity": "none" },
+    "sextiles": { "overall": "none", "popularity": "none" },
+    "weights": { "overall": 0, "popularity": 0 },
+    "avatar": ""
+  },
+  {
+    "_id": { "postid": "c0dca393-bff7-48ec-8127-57e48373d45b" },
+    "author": "yupcreators1",
+    "catVotes": { "overall": { "up": 7, "down": 0 } },
+    "claimedCreatorRewards": 0,
+    "createdAt": "2023-08-08T21:03:11.429Z",
+    "creatorInfluence": 0,
+    "creatorPoolRedeemed": 0,
+    "influence": { "false": 0, "true": 0 },
+    "isCrossPost": false,
+    "isFlagged": false,
+    "isModeratorFlagged": false,
+    "lang": "en",
+    "negativeWeight": 0,
+    "positiveWeight": 2.6500000000000004,
+    "previewData": {
+      "creator": "",
+      "img": "https://cdn.bsky.social/imgproxy/pmMk9Lb91mMOAY182mOWI3pkG6Zk-tkm1sIUTDWfW4U/rs:fit:1000:1000:1:0/plain/bafkreifrmtgxo2zsvcmu6lkm6vrhemo4u56y3wq5tlrjuqqjmfigb2z5mq@jpeg",
+      "title": "He’s just a baby. He doesn’t have any money.",
+      "description": "He’s just a baby. He doesn’t have any money.",
+      "lastUpdated": "1691532142493"
+    },
+    "rating": { "overall": { "ratingCount": 7, "ratingWeight": 0 } },
+    "secondaryTags": [],
+    "tag": "bsky",
+    "totalCreatorRewards": 0,
+    "updatedAt": "2023-08-08T21:03:11.429Z",
+    "url": "at://did:plc:sdu4rudzew7rtf26u5o4bdf7/app.bsky.feed.post/3k4hysh4bpf22",
+    "web3Preview": {
+      "id": "at://did:plc:sdu4rudzew7rtf26u5o4bdf7/app.bsky.feed.post/3k4hysh4bpf22",
+      "contentType": "Post",
+      "protocol": "bsky",
+      "creator": {
+        "address": "",
+        "did": "did:plc:sdu4rudzew7rtf26u5o4bdf7",
+        "avatarUrl": "https://cdn.bsky.social/imgproxy/bZledRsD_X9TepD9AtBSgiHhczPj_yMFSIp8K9ZGPQw/rs:fill:1000:1000:1:0/plain/bafkreic5244ogjzwrzcu6vt4lsrwxjt5xcucwlvzigjatfz6lg7wudi3ru@jpeg",
+        "handle": "moiradonegan.bsky.social",
+        "fullname": "Moira Donegan",
+        "yupScore": 0
+      },
+      "attachments": [
+        {
+          "url": "https://cdn.bsky.social/imgproxy/pmMk9Lb91mMOAY182mOWI3pkG6Zk-tkm1sIUTDWfW4U/rs:fit:1000:1000:1:0/plain/bafkreifrmtgxo2zsvcmu6lkm6vrhemo4u56y3wq5tlrjuqqjmfigb2z5mq@jpeg",
+          "title": "",
+          "description": "",
+          "images": [
+            "https://cdn.bsky.social/imgproxy/pmMk9Lb91mMOAY182mOWI3pkG6Zk-tkm1sIUTDWfW4U/rs:fit:1000:1000:1:0/plain/bafkreifrmtgxo2zsvcmu6lkm6vrhemo4u56y3wq5tlrjuqqjmfigb2z5mq@jpeg"
+          ],
+          "videos": [],
+          "favicon": "",
+          "_id": "64d2b067628f926ed7e68db9"
+        }
+      ],
+      "content": "He’s just a baby. He doesn’t have any money.",
+      "urls": [],
+      "linkPreview": [],
+      "mentions": {},
+      "meta": {
+        "uri": "at://did:plc:sdu4rudzew7rtf26u5o4bdf7/app.bsky.feed.post/3k4hysh4bpf22",
+        "cid": "bafyreibl7w6eufloph74c676xlydfjcrzqrnxl7jijveno7ifeaue676nm",
+        "author": {
+          "did": "did:plc:sdu4rudzew7rtf26u5o4bdf7",
+          "handle": "moiradonegan.bsky.social",
+          "displayName": "Moira Donegan",
+          "avatar": "https://cdn.bsky.social/imgproxy/bZledRsD_X9TepD9AtBSgiHhczPj_yMFSIp8K9ZGPQw/rs:fill:1000:1000:1:0/plain/bafkreic5244ogjzwrzcu6vt4lsrwxjt5xcucwlvzigjatfz6lg7wudi3ru@jpeg",
+          "viewer": { "muted": false, "blockedBy": false },
+          "labels": []
+        },
+        "record": {
+          "text": "He’s just a baby. He doesn’t have any money.",
+          "type": "app.bsky.feed.post",
+          "langs": ["en"],
+          "createdAt": "2023-08-08T21:03:11.209Z"
+        },
+        "embed": {
+          "type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.social/imgproxy/pmMk9Lb91mMOAY182mOWI3pkG6Zk-tkm1sIUTDWfW4U/rs:fit:1000:1000:1:0/plain/bafkreifrmtgxo2zsvcmu6lkm6vrhemo4u56y3wq5tlrjuqqjmfigb2z5mq@jpeg",
+              "fullsize": "https://cdn.bsky.social/imgproxy/8TltoFXoBWaFzf_Vh64jzey6R9AGJGTDnK17rS8rVvI/rs:fit:2000:2000:1:0/plain/bafkreifrmtgxo2zsvcmu6lkm6vrhemo4u56y3wq5tlrjuqqjmfigb2z5mq@jpeg",
+              "alt": ""
+            }
+          ]
+        },
+        "replyCount": 2,
+        "repostCount": 4,
+        "likeCount": 78,
+        "indexedAt": "2023-08-08T21:03:11.429Z",
+        "viewer": {},
+        "labels": [],
+        "viewUrl": "https://bsky.app/profile/moiradonegan.bsky.social/post/3k4hysh4bpf22",
+        "parentPostId": null,
+        "rootPostId": null,
+        "quotedPostId": null,
+        "postType": "post",
+        "isLabelled": true
+      },
+      "createdAt": "2023-08-08T21:03:11.429Z",
+      "platformMetrics": { "likes": 86, "reposts": 4, "comments": 2 },
+      "updatedAt": "2023-08-08T21:03:11.429Z"
+    },
+    "keywords": [],
+    "web3CreatorProfile": {
+      "_id": "did:plc:sdu4rudzew7rtf26u5o4bdf7",
+      "farcaster": {},
+      "lens": {},
+      "yup": {},
+      "bsky": {
+        "did": "did:plc:sdu4rudzew7rtf26u5o4bdf7",
+        "handle": "moiradonegan.bsky.social",
+        "avatar": "https://cdn.bsky.social/imgproxy/bZledRsD_X9TepD9AtBSgiHhczPj_yMFSIp8K9ZGPQw/rs:fill:1000:1000:1:0/plain/bafkreic5244ogjzwrzcu6vt4lsrwxjt5xcucwlvzigjatfz6lg7wudi3ru@jpeg",
+        "fullname": "Moira Donegan",
+        "bio": "Opinion columnist covering gender and politics at The Guardian. Writer in residence at the Michelle R. Clayman Institute for Gender Research. Real piece of work. "
+      },
+      "handle": "moiradonegan.bsky.social",
+      "avatar": "https://cdn.bsky.social/imgproxy/bZledRsD_X9TepD9AtBSgiHhczPj_yMFSIp8K9ZGPQw/rs:fill:1000:1000:1:0/plain/bafkreic5244ogjzwrzcu6vt4lsrwxjt5xcucwlvzigjatfz6lg7wudi3ru@jpeg",
+      "lastActiveDate": "2023-08-08T22:32:27.203Z",
+      "yupScore": 0,
+      "noData": false
+    },
+    "rawPositiveWeight": 53,
+    "quantiles": { "overall": "none", "popularity": "none" },
+    "sextiles": { "overall": "none", "popularity": "none" },
+    "weights": { "overall": 0, "popularity": 0 },
+    "avatar": ""
+  },
+  {
+    "_id": { "postid": "21fccbf4-ee61-4c0b-8ae7-f80d821a0458" },
+    "author": "yupcreators1",
+    "catVotes": { "overall": { "up": 0, "down": 0 } },
+    "claimedCreatorRewards": 0,
+    "createdAt": "2023-08-08T20:59:07.123Z",
+    "creatorInfluence": 0,
+    "creatorPoolRedeemed": 0,
+    "influence": { "false": 0, "true": 0 },
+    "isCrossPost": false,
+    "isFlagged": false,
+    "isModeratorFlagged": false,
+    "lang": "en",
+    "negativeWeight": 0,
+    "positiveWeight": 0,
+    "previewData": {
+      "creator": "",
+      "img": "",
+      "title": "real hypnosis isnt when some guy with a pocket watch goes \"oooooh you are getting very sleeeeepyyy\". real hypnosis is when a gorgeous woman threads her fingers delicately in your hair, whispering in your ear while you relax and start to drift off into that wonderful place where.... what was i saying",
+      "description": "real hypnosis isnt when some guy with a pocket watch goes \"oooooh you are getting very sleeeeepyyy\". real hypnosis is when a gorgeous woman threads her fingers delicately in your hair, whispering in your ear while you relax and start to drift off into that wonderful place where.... what was i saying"
+    },
+    "rating": { "overall": { "ratingCount": 0, "ratingWeight": 0 } },
+    "secondaryTags": [],
+    "tag": "bsky",
+    "totalCreatorRewards": 0,
+    "updatedAt": "2023-08-08T20:59:07.123Z",
+    "url": "at://did:plc:sonncyo6avfaobajokkmqvm2/app.bsky.feed.post/3k4hyl64wbh2d",
+    "web3Preview": {
+      "id": "at://did:plc:sonncyo6avfaobajokkmqvm2/app.bsky.feed.post/3k4hyl64wbh2d",
+      "contentType": "Post",
+      "protocol": "bsky",
+      "creator": {
+        "address": "",
+        "did": "did:plc:sonncyo6avfaobajokkmqvm2",
+        "avatarUrl": "https://cdn.bsky.social/imgproxy/u37mPTf7GmolunJNearKAct3ka3zivqJNgV2VAX5-zw/rs:fill:1000:1000:1:0/plain/bafkreidtvuzhd62bbehzapfveppbg5m56colax6djrai6pteabk3kegrse@jpeg",
+        "handle": "krystal.swords.gay",
+        "fullname": "Angel of Lesbos",
+        "yupScore": 0
+      },
+      "attachments": [],
+      "content": "real hypnosis isnt when some guy with a pocket watch goes \"oooooh you are getting very sleeeeepyyy\". real hypnosis is when a gorgeous woman threads her fingers delicately in your hair, whispering in your ear while you relax and start to drift off into that wonderful place where.... what was i saying",
+      "urls": [],
+      "linkPreview": [],
+      "mentions": {},
+      "meta": {
+        "uri": "at://did:plc:sonncyo6avfaobajokkmqvm2/app.bsky.feed.post/3k4hyl64wbh2d",
+        "cid": "bafyreig7wmxbeqmfyi2mer7aty3q74rvslfe2rw5tmlf77vvhn6rfdpgcm",
+        "author": {
+          "did": "did:plc:sonncyo6avfaobajokkmqvm2",
+          "handle": "krystal.swords.gay",
+          "displayName": "Angel of Lesbos",
+          "avatar": "https://cdn.bsky.social/imgproxy/u37mPTf7GmolunJNearKAct3ka3zivqJNgV2VAX5-zw/rs:fill:1000:1000:1:0/plain/bafkreidtvuzhd62bbehzapfveppbg5m56colax6djrai6pteabk3kegrse@jpeg",
+          "viewer": { "muted": false, "blockedBy": false },
+          "labels": []
+        },
+        "record": {
+          "text": "real hypnosis isnt when some guy with a pocket watch goes \"oooooh you are getting very sleeeeepyyy\". real hypnosis is when a gorgeous woman threads her fingers delicately in your hair, whispering in your ear while you relax and start to drift off into that wonderful place where.... what was i saying",
+          "type": "app.bsky.feed.post",
+          "langs": ["en"],
+          "createdAt": "2023-08-08T20:59:06.977Z"
+        },
+        "replyCount": 5,
+        "repostCount": 14,
+        "likeCount": 55,
+        "indexedAt": "2023-08-08T20:59:07.123Z",
+        "viewer": {},
+        "labels": [],
+        "viewUrl": "https://bsky.app/profile/krystal.swords.gay/post/3k4hyl64wbh2d",
+        "parentPostId": null,
+        "rootPostId": null,
+        "quotedPostId": null,
+        "postType": "post"
+      },
+      "createdAt": "2023-08-08T20:59:07.123Z",
+      "platformMetrics": { "likes": 55, "reposts": 14, "comments": 5 },
+      "updatedAt": "2023-08-08T20:59:07.123Z"
+    },
+    "web3CreatorProfile": {
+      "_id": "did:plc:sonncyo6avfaobajokkmqvm2",
+      "farcaster": {},
+      "lens": {},
+      "yup": {},
+      "bsky": {
+        "did": "did:plc:sonncyo6avfaobajokkmqvm2",
+        "handle": "krystalswords.bsky.social",
+        "avatar": "https://cdn.bsky.social/imgproxy/jsP2Zv1bk5oKRW2l4G-c4F_GHKRyaM1papHCICyzpb4/rs:fill:1000:1000:1:0/plain/bafkreievskeq6qm7sreafko6sbeaktqo7xdxqfcziqmlod2djoyf6xc2pu@jpeg",
+        "fullname": "Krystal Swords",
+        "bio": "18+ || she/her\n\nguitarist, singer, synth android, twitch affiliate, makeup and fashion dilettante"
+      },
+      "handle": "krystalswords.bsky.social",
+      "avatar": "https://cdn.bsky.social/imgproxy/jsP2Zv1bk5oKRW2l4G-c4F_GHKRyaM1papHCICyzpb4/rs:fill:1000:1000:1:0/plain/bafkreievskeq6qm7sreafko6sbeaktqo7xdxqfcziqmlod2djoyf6xc2pu@jpeg",
+      "lastActiveDate": "2023-08-08T22:32:27.203Z",
+      "yupScore": 0,
+      "noData": false
+    },
+    "quantiles": { "overall": "none", "popularity": "none" },
+    "sextiles": { "overall": "none", "popularity": "none" },
+    "weights": { "overall": 0, "popularity": 0 },
+    "avatar": ""
+  },
+  {
+    "_id": { "postid": "adc253ff-8a56-4821-bb22-50c492c15d74" },
+    "author": "yupcreators1",
+    "catVotes": { "overall": { "up": 2, "down": 0 } },
+    "claimedCreatorRewards": 0,
+    "createdAt": "2023-08-08T21:38:51.959Z",
+    "creatorInfluence": 0,
+    "creatorPoolRedeemed": 0,
+    "influence": { "false": 0, "true": 0 },
+    "isCrossPost": false,
+    "isFlagged": false,
+    "isModeratorFlagged": false,
+    "lang": "en",
+    "negativeWeight": 0,
+    "positiveWeight": 0.7000000000000001,
+    "previewData": {
+      "creator": "",
+      "img": "",
+      "title": "Hey everybody, welcome to Prager U's US History. I'm JFK and I'll be your host for this semester. Before we get started, I just want to say how glad I am to be dead; all my friends are here and I never feel any pain. Now let's give a big History Hello to my sidekick on this adventure, Jim the Crow!",
+      "description": "Hey everybody, welcome to Prager U's US History. I'm JFK and I'll be your host for this semester. Before we get started, I just want to say how glad I am to be dead; all my friends are here and I never feel any pain. Now let's give a big History Hello to my sidekick on this adventure, Jim the Crow!",
+      "lastUpdated": "1691532142512"
+    },
+    "rating": { "overall": { "ratingCount": 2, "ratingWeight": 0 } },
+    "secondaryTags": [],
+    "tag": "bsky",
+    "totalCreatorRewards": 0,
+    "updatedAt": "2023-08-08T21:38:51.959Z",
+    "url": "at://did:plc:lmbntv4ty3zgh5b542cmhwta/app.bsky.feed.post/3k4i2saieno2u",
+    "web3Preview": {
+      "id": "at://did:plc:lmbntv4ty3zgh5b542cmhwta/app.bsky.feed.post/3k4i2saieno2u",
+      "contentType": "Post",
+      "protocol": "bsky",
+      "creator": {
+        "address": "",
+        "did": "did:plc:lmbntv4ty3zgh5b542cmhwta",
+        "avatarUrl": "https://cdn.bsky.social/imgproxy/Xdix3b2Yf9wjdAbsqum-yB1ZmTsjb5Za4uYt9xH3OoE/rs:fill:1000:1000:1:0/plain/bafkreicdu4dj4mtcj6e5fovnj72zwdzckbbk2i4p3uoyknz3rsvz7kfuuy@jpeg",
+        "handle": "jessefarrar.bsky.social",
+        "fullname": "mr \"you know who\" ",
+        "yupScore": 0
+      },
+      "attachments": [],
+      "content": "Hey everybody, welcome to Prager U's US History. I'm JFK and I'll be your host for this semester. Before we get started, I just want to say how glad I am to be dead; all my friends are here and I never feel any pain. Now let's give a big History Hello to my sidekick on this adventure, Jim the Crow!",
+      "urls": [],
+      "linkPreview": [],
+      "mentions": {},
+      "meta": {
+        "uri": "at://did:plc:lmbntv4ty3zgh5b542cmhwta/app.bsky.feed.post/3k4i2saieno2u",
+        "cid": "bafyreif54rg5ne4tl63hfvdaug7a4tvszzsir2os5gx4soztkz46zcsvuq",
+        "author": {
+          "did": "did:plc:lmbntv4ty3zgh5b542cmhwta",
+          "handle": "jessefarrar.bsky.social",
+          "displayName": "mr \"you know who\" ",
+          "avatar": "https://cdn.bsky.social/imgproxy/Xdix3b2Yf9wjdAbsqum-yB1ZmTsjb5Za4uYt9xH3OoE/rs:fill:1000:1000:1:0/plain/bafkreicdu4dj4mtcj6e5fovnj72zwdzckbbk2i4p3uoyknz3rsvz7kfuuy@jpeg",
+          "viewer": { "muted": false, "blockedBy": false },
+          "labels": []
+        },
+        "record": {
+          "text": "Hey everybody, welcome to Prager U's US History. I'm JFK and I'll be your host for this semester. Before we get started, I just want to say how glad I am to be dead; all my friends are here and I never feel any pain. Now let's give a big History Hello to my sidekick on this adventure, Jim the Crow!",
+          "type": "app.bsky.feed.post",
+          "langs": ["en"],
+          "createdAt": "2023-08-08T21:38:31.441Z"
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "indexedAt": "2023-08-08T21:38:51.959Z",
+        "viewer": {},
+        "labels": [],
+        "viewUrl": "https://bsky.app/profile/jessefarrar.bsky.social/post/3k4i2saieno2u",
+        "parentPostId": null,
+        "rootPostId": null,
+        "quotedPostId": null,
+        "postType": "post",
+        "isLabelled": false
+      },
+      "createdAt": "2023-08-08T21:38:51.959Z",
+      "platformMetrics": { "likes": 15, "reposts": 0, "comments": 0 },
+      "updatedAt": "2023-08-08T21:38:51.959Z"
+    },
+    "web3CreatorProfile": {
+      "_id": "did:plc:lmbntv4ty3zgh5b542cmhwta",
+      "farcaster": {},
+      "lens": {},
+      "yup": {},
+      "bsky": {
+        "did": "did:plc:lmbntv4ty3zgh5b542cmhwta",
+        "handle": "jessefarrar.bsky.social",
+        "avatar": "https://cdn.bsky.social/imgproxy/Xdix3b2Yf9wjdAbsqum-yB1ZmTsjb5Za4uYt9xH3OoE/rs:fill:1000:1000:1:0/plain/bafkreicdu4dj4mtcj6e5fovnj72zwdzckbbk2i4p3uoyknz3rsvz7kfuuy@jpeg",
+        "fullname": "mr \"you know who\" ",
+        "bio": "@gooffkings.bsky.social\n@ykspod.bsky.social"
+      },
+      "handle": "jessefarrar.bsky.social",
+      "avatar": "https://cdn.bsky.social/imgproxy/Xdix3b2Yf9wjdAbsqum-yB1ZmTsjb5Za4uYt9xH3OoE/rs:fill:1000:1000:1:0/plain/bafkreicdu4dj4mtcj6e5fovnj72zwdzckbbk2i4p3uoyknz3rsvz7kfuuy@jpeg",
+      "lastActiveDate": "2023-08-08T22:32:27.203Z",
+      "yupScore": 0,
+      "noData": false
+    },
+    "rawPositiveWeight": 14,
+    "quantiles": { "overall": "none", "popularity": "none" },
+    "sextiles": { "overall": "none", "popularity": "none" },
+    "weights": { "overall": 0, "popularity": 0 },
+    "avatar": ""
+  },
+  {
+    "_id": { "postid": "cb49f0ca-4b89-4038-813f-cba68484f0cc" },
+    "author": "yupcreators1",
+    "catVotes": { "overall": { "up": 0, "down": 0 } },
+    "claimedCreatorRewards": 0,
+    "createdAt": "2023-08-08T21:54:33.449Z",
+    "creatorInfluence": 0,
+    "creatorPoolRedeemed": 0,
+    "influence": { "false": 0, "true": 0 },
+    "isCrossPost": false,
+    "isFlagged": false,
+    "isModeratorFlagged": false,
+    "lang": "en",
+    "negativeWeight": 0,
+    "positiveWeight": 0,
+    "previewData": {
+      "creator": "",
+      "img": "https://cdn.bsky.social/imgproxy/KKsHCevnn80UNRVWO_5w1g63Iap_aKvFVYXlUdGqOnw/rs:fit:1000:1000:1:0/plain/bafkreifbvib5spoeho2hrsvi2lka4fmfu6zjr5teyng4gj7u2if44q22ki@jpeg",
+      "title": "More rabbits 🌵🐇",
+      "description": "More rabbits 🌵🐇"
+    },
+    "rating": { "overall": { "ratingCount": 0, "ratingWeight": 0 } },
+    "secondaryTags": [],
+    "tag": "bsky",
+    "totalCreatorRewards": 0,
+    "updatedAt": "2023-08-08T21:54:33.449Z",
+    "url": "at://did:plc:twndsqlssutq4dt4b2fr3dd2/app.bsky.feed.post/3k4i3oceeji2x",
+    "web3Preview": {
+      "id": "at://did:plc:twndsqlssutq4dt4b2fr3dd2/app.bsky.feed.post/3k4i3oceeji2x",
+      "contentType": "Post",
+      "protocol": "bsky",
+      "creator": {
+        "address": "",
+        "did": "did:plc:twndsqlssutq4dt4b2fr3dd2",
+        "avatarUrl": "https://cdn.bsky.social/imgproxy/QR3kC6ub2lSg3983rUGFN-ncHNE-co67KQxSIzAzYkc/rs:fill:1000:1000:1:0/plain/bafkreiga7ugozswlle7r2uabrddm5x5rssiy4ngodzogbkviw7qze36wlq@jpeg",
+        "handle": "teatigercafe.bsky.social",
+        "fullname": "Morghan Gill",
+        "yupScore": 0
+      },
+      "attachments": [
+        {
+          "url": "https://cdn.bsky.social/imgproxy/KKsHCevnn80UNRVWO_5w1g63Iap_aKvFVYXlUdGqOnw/rs:fit:1000:1000:1:0/plain/bafkreifbvib5spoeho2hrsvi2lka4fmfu6zjr5teyng4gj7u2if44q22ki@jpeg",
+          "title": "",
+          "description": "",
+          "images": [
+            "https://cdn.bsky.social/imgproxy/KKsHCevnn80UNRVWO_5w1g63Iap_aKvFVYXlUdGqOnw/rs:fit:1000:1000:1:0/plain/bafkreifbvib5spoeho2hrsvi2lka4fmfu6zjr5teyng4gj7u2if44q22ki@jpeg"
+          ],
+          "videos": [],
+          "favicon": "",
+          "_id": "64d2bf64628f926ed7ede8eb"
+        },
+        {
+          "url": "https://cdn.bsky.social/imgproxy/LIXXeT2tEgwOfGEZi46bACWSSxc_Rjdi5tQiI5wssQM/rs:fit:1000:1000:1:0/plain/bafkreihzkhio7zh3qvsaxf7h37svginnflvwayvciiy5zrp4fmv5xmzsn4@jpeg",
+          "title": "",
+          "description": "",
+          "images": [
+            "https://cdn.bsky.social/imgproxy/LIXXeT2tEgwOfGEZi46bACWSSxc_Rjdi5tQiI5wssQM/rs:fit:1000:1000:1:0/plain/bafkreihzkhio7zh3qvsaxf7h37svginnflvwayvciiy5zrp4fmv5xmzsn4@jpeg"
+          ],
+          "videos": [],
+          "favicon": "",
+          "_id": "64d2bf64628f926ed7ede8ec"
+        }
+      ],
+      "content": "More rabbits 🌵🐇",
+      "urls": [],
+      "linkPreview": [],
+      "mentions": {},
+      "meta": {
+        "uri": "at://did:plc:twndsqlssutq4dt4b2fr3dd2/app.bsky.feed.post/3k4i3oceeji2x",
+        "cid": "bafyreibdn3ur44q55y4dyru7ffv2xhnermwfsmkslnwyua7smzhqrygl7i",
+        "author": {
+          "did": "did:plc:twndsqlssutq4dt4b2fr3dd2",
+          "handle": "teatigercafe.bsky.social",
+          "displayName": "Morghan Gill",
+          "avatar": "https://cdn.bsky.social/imgproxy/QR3kC6ub2lSg3983rUGFN-ncHNE-co67KQxSIzAzYkc/rs:fill:1000:1000:1:0/plain/bafkreiga7ugozswlle7r2uabrddm5x5rssiy4ngodzogbkviw7qze36wlq@jpeg",
+          "viewer": { "muted": false, "blockedBy": false },
+          "labels": []
+        },
+        "record": {
+          "text": "More rabbits 🌵🐇",
+          "type": "app.bsky.feed.post",
+          "langs": ["en"],
+          "createdAt": "2023-08-08T21:54:33.355Z"
+        },
+        "embed": {
+          "type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.social/imgproxy/KKsHCevnn80UNRVWO_5w1g63Iap_aKvFVYXlUdGqOnw/rs:fit:1000:1000:1:0/plain/bafkreifbvib5spoeho2hrsvi2lka4fmfu6zjr5teyng4gj7u2if44q22ki@jpeg",
+              "fullsize": "https://cdn.bsky.social/imgproxy/0rJyfSh7AGIVngBoJIgYrqctdPZLi0uuhllt2Qcq5rw/rs:fit:2000:2000:1:0/plain/bafkreifbvib5spoeho2hrsvi2lka4fmfu6zjr5teyng4gj7u2if44q22ki@jpeg",
+              "alt": ""
+            },
+            {
+              "thumb": "https://cdn.bsky.social/imgproxy/LIXXeT2tEgwOfGEZi46bACWSSxc_Rjdi5tQiI5wssQM/rs:fit:1000:1000:1:0/plain/bafkreihzkhio7zh3qvsaxf7h37svginnflvwayvciiy5zrp4fmv5xmzsn4@jpeg",
+              "fullsize": "https://cdn.bsky.social/imgproxy/bYhFbh5eMXd998HKBYgjUPsL3qSTVaJ98pWB6SRxoF8/rs:fit:2000:2000:1:0/plain/bafkreihzkhio7zh3qvsaxf7h37svginnflvwayvciiy5zrp4fmv5xmzsn4@jpeg",
+              "alt": ""
+            }
+          ]
+        },
+        "replyCount": 1,
+        "repostCount": 0,
+        "likeCount": 13,
+        "indexedAt": "2023-08-08T21:54:33.449Z",
+        "viewer": {},
+        "labels": [],
+        "viewUrl": "https://bsky.app/profile/teatigercafe.bsky.social/post/3k4i3oceeji2x",
+        "parentPostId": null,
+        "rootPostId": null,
+        "quotedPostId": null,
+        "postType": "post",
+        "isLabelled": false
+      },
+      "createdAt": "2023-08-08T21:54:33.449Z",
+      "platformMetrics": { "likes": 13, "reposts": 0, "comments": 1 },
+      "updatedAt": "2023-08-08T21:54:33.449Z"
+    },
+    "web3CreatorProfile": {
+      "_id": "did:plc:twndsqlssutq4dt4b2fr3dd2",
+      "farcaster": {},
+      "lens": {},
+      "yup": {},
+      "bsky": {
+        "did": "did:plc:twndsqlssutq4dt4b2fr3dd2",
+        "handle": "teatigercafe.bsky.social",
+        "avatar": "https://cdn.bsky.social/imgproxy/QR3kC6ub2lSg3983rUGFN-ncHNE-co67KQxSIzAzYkc/rs:fill:1000:1000:1:0/plain/bafkreiga7ugozswlle7r2uabrddm5x5rssiy4ngodzogbkviw7qze36wlq@jpeg",
+        "fullname": "Morghan Gill",
+        "bio": "Character Designer - Tea/Coffee lover - steward to cat and snake.\n\nCurrently looking for full-time work - Previous: Bento Box, WB, Hasbro's All Spark, CN, DisneyTV, + more."
+      },
+      "handle": "teatigercafe.bsky.social",
+      "avatar": "https://cdn.bsky.social/imgproxy/QR3kC6ub2lSg3983rUGFN-ncHNE-co67KQxSIzAzYkc/rs:fill:1000:1000:1:0/plain/bafkreiga7ugozswlle7r2uabrddm5x5rssiy4ngodzogbkviw7qze36wlq@jpeg",
+      "lastActiveDate": "2023-08-08T22:32:27.203Z",
+      "yupScore": 0,
+      "noData": false
+    },
+    "quantiles": { "overall": "none", "popularity": "none" },
+    "sextiles": { "overall": "none", "popularity": "none" },
+    "weights": { "overall": 0, "popularity": 0 },
+    "avatar": ""
+  },
+  {
+    "_id": { "postid": "ebe0da7f-b036-4910-b40f-097221c95c9d" },
+    "author": "yupcreators1",
+    "catVotes": { "overall": { "up": 5, "down": 0 } },
+    "claimedCreatorRewards": 0,
+    "createdAt": "2023-08-08T20:55:04.845Z",
+    "creatorInfluence": 0,
+    "creatorPoolRedeemed": 0,
+    "influence": { "false": 0, "true": 0 },
+    "isCrossPost": false,
+    "isFlagged": false,
+    "isModeratorFlagged": false,
+    "lang": "en",
+    "negativeWeight": 0,
+    "positiveWeight": 1.6,
+    "previewData": {
+      "creator": "",
+      "img": "",
+      "title": "during the meatball ron saga me and my pals were surehis stump speech would include \"people are calling him 'meatball ron,' - not me, it's disrespectful - but many people are saying 'meatball ron.'\" he never did. today he went off on christie and did the bit but subbed in \"fat pig.\" one of a kind.",
+      "description": "during the meatball ron saga me and my pals were surehis stump speech would include \"people are calling him 'meatball ron,' - not me, it's disrespectful - but many people are saying 'meatball ron.'\" he never did. today he went off on christie and did the bit but subbed in \"fat pig.\" one of a kind.",
+      "lastUpdated": "1691531968335"
+    },
+    "rating": { "overall": { "ratingCount": 5, "ratingWeight": 0 } },
+    "secondaryTags": [],
+    "tag": "bsky",
+    "totalCreatorRewards": 0,
+    "updatedAt": "2023-08-08T20:55:04.845Z",
+    "url": "at://did:plc:zltqtmydso6kikzw7wafpj4p/app.bsky.feed.post/3k4hydx2rxo2d",
+    "web3Preview": {
+      "id": "at://did:plc:zltqtmydso6kikzw7wafpj4p/app.bsky.feed.post/3k4hydx2rxo2d",
+      "contentType": "Post",
+      "protocol": "bsky",
+      "creator": {
+        "address": "",
+        "did": "did:plc:zltqtmydso6kikzw7wafpj4p",
+        "avatarUrl": "https://cdn.bsky.social/imgproxy/7Pq7yeKAWGF7R0qgbU5gtMmkH6R1dnAEW1cspquGGPg/rs:fill:1000:1000:1:0/plain/bafkreigiymhpmoq7oqpnhp4kcxhyn5peytpwguaybqqbbv5qri5wyi5z7y@jpeg",
+        "handle": "ugarles.bsky.social",
+        "fullname": "Sen. Lemon Gogurt (I - Blue Sky)",
+        "yupScore": 0
+      },
+      "attachments": [],
+      "content": "during the meatball ron saga me and my pals were surehis stump speech would include \"people are calling him 'meatball ron,' - not me, it's disrespectful - but many people are saying 'meatball ron.'\" he never did. today he went off on christie and did the bit but subbed in \"fat pig.\" one of a kind.",
+      "urls": [],
+      "linkPreview": [],
+      "mentions": {},
+      "meta": {
+        "uri": "at://did:plc:zltqtmydso6kikzw7wafpj4p/app.bsky.feed.post/3k4hydx2rxo2d",
+        "cid": "bafyreigtk43mgpedjv37pewqr42qsvom2ws5o2k52hvucbwp3ofoy4gmnm",
+        "author": {
+          "did": "did:plc:zltqtmydso6kikzw7wafpj4p",
+          "handle": "ugarles.bsky.social",
+          "displayName": "Sen. Lemon Gogurt (I - Blue Sky)",
+          "avatar": "https://cdn.bsky.social/imgproxy/7Pq7yeKAWGF7R0qgbU5gtMmkH6R1dnAEW1cspquGGPg/rs:fill:1000:1000:1:0/plain/bafkreigiymhpmoq7oqpnhp4kcxhyn5peytpwguaybqqbbv5qri5wyi5z7y@jpeg",
+          "viewer": { "muted": false, "blockedBy": false },
+          "labels": []
+        },
+        "record": {
+          "text": "during the meatball ron saga me and my pals were surehis stump speech would include \"people are calling him 'meatball ron,' - not me, it's disrespectful - but many people are saying 'meatball ron.'\" he never did. today he went off on christie and did the bit but subbed in \"fat pig.\" one of a kind.",
+          "type": "app.bsky.feed.post",
+          "langs": ["en"],
+          "createdAt": "2023-08-08T20:55:02.967Z"
+        },
+        "replyCount": 3,
+        "repostCount": 0,
+        "likeCount": 34,
+        "indexedAt": "2023-08-08T20:55:04.845Z",
+        "viewer": {},
+        "labels": [],
+        "viewUrl": "https://bsky.app/profile/ugarles.bsky.social/post/3k4hydx2rxo2d",
+        "parentPostId": null,
+        "rootPostId": null,
+        "quotedPostId": null,
+        "postType": "post"
+      },
+      "createdAt": "2023-08-08T20:55:04.845Z",
+      "platformMetrics": { "likes": 41, "reposts": 0, "comments": 3 },
+      "updatedAt": "2023-08-08T20:55:04.845Z"
+    },
+    "keywords": ["meatball ron", "ron", "christie"],
+    "web3CreatorProfile": {
+      "_id": "did:plc:zltqtmydso6kikzw7wafpj4p",
+      "farcaster": {},
+      "lens": {},
+      "yup": {},
+      "bsky": {
+        "did": "did:plc:zltqtmydso6kikzw7wafpj4p",
+        "handle": "ugarles.bsky.social",
+        "avatar": "https://cdn.bsky.social/imgproxy/7Pq7yeKAWGF7R0qgbU5gtMmkH6R1dnAEW1cspquGGPg/rs:fill:1000:1000:1:0/plain/bafkreigiymhpmoq7oqpnhp4kcxhyn5peytpwguaybqqbbv5qri5wyi5z7y@jpeg",
+        "fullname": "Sen. Lemon Gogurt (I - Blue Sky)",
+        "bio": "dumb laws deserve my thoughts on them"
+      },
+      "handle": "ugarles.bsky.social",
+      "avatar": "https://cdn.bsky.social/imgproxy/7Pq7yeKAWGF7R0qgbU5gtMmkH6R1dnAEW1cspquGGPg/rs:fill:1000:1000:1:0/plain/bafkreigiymhpmoq7oqpnhp4kcxhyn5peytpwguaybqqbbv5qri5wyi5z7y@jpeg",
+      "lastActiveDate": "2023-08-08T22:32:27.203Z",
+      "yupScore": 0,
+      "noData": false
+    },
+    "rawPositiveWeight": 32,
+    "quantiles": { "overall": "none", "popularity": "none" },
+    "sextiles": { "overall": "none", "popularity": "none" },
+    "weights": { "overall": 0, "popularity": 0 },
+    "avatar": ""
+  }
+]
